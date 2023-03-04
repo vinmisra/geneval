@@ -6,3 +6,7 @@ ftfy
 tensorboard
 modelcards
 clip
+diffusers
+gspread
+Pillow
+sklearn
